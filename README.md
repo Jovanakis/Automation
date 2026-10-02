@@ -14,5 +14,5 @@ The sample scripts are not supported under any Microsoft standard support progra
 This script retrieves all mailbox accounts in Exchange Online, loops through each mailbox, and disables legacy authentication protocols—specifically **POP**, **IMAP**, and **SMTP AUTH**—for every user. This helps enforce modern authentication and strengthens the overall security posture of the environment.
 
 <p align="center">
-  <img src="./Legacy protocols.png" style="max-width:100%;" alt="SNAI banner" />
+  <img src="./GitHub.png" style="max-width:100%;" alt="SNAI banner" />
 </p>
